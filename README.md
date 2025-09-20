@@ -29,6 +29,7 @@ Webデベロッパーを目指して学習中の元ミュージシャンです�
 <br>
 Nuxt.jsとLaravel APIでフロントエンドとバックエンドを分離開発したSNS。Firebase認証を導入。
 - **技術スタック**: Nuxt.js, Laravel, Firebase, Pinia, TypeScript, Docker(Sail)
+
 - **[📂 GitHubリポジトリを見る](https://github.com/yuji-oonaka/share-nuxt)**
 
 ---
