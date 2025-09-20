@@ -34,9 +34,8 @@
 - **技術スタック**: Nuxt.js, Laravel, Firebase, Pinia, Docker, etc.
 - **こだわり**: ユーザーが直感的に使えるよう、トースト通知によるフィードバックや、リアルタイムのフォームバリデーションを実装しました。
 
-**[🔗 ライブデモを見る]** `[ここにVercelなどで公開したアプリのURLを貼る]`
 
-**[📂 GitHubリポジトリを見る]** `[ここにshare-nuxtのリポジトリURLを貼る]`
+**[📂 GitHubリポジトリを見る]** `https://github.com/yuji-oonaka/share-nuxt.git`
 
 ---
 
