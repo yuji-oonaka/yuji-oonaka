@@ -25,7 +25,7 @@
 **SNS風アプリケーション (SHARE)**
 
 <a href="https://drive.google.com/file/d/1vbN4UhfNks6QUNacFlNPg5cxdRiMckJt/view?usp=drive_link">
-  <img src="[ここにアプリのスクリーンショット画像をアップロードして、そのURLを貼る]" alt="SHARE アプリのスクリーンショット" width="600px" />
+  <img width="1904" height="908" alt="スクリーンショット 2025-09-16 111357" src="https://github.com/user-attachments/assets/6aae7644-cb87-40c8-8207-6412728e04cf" />
 </a>
 
 短いメッセージを投稿・共有するシンプルなSNSです。設計から実装、テストまで一貫して開発しました。
