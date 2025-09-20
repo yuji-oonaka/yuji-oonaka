@@ -35,7 +35,7 @@
 - **こだわり**: ユーザーが直感的に使えるよう、トースト通知によるフィードバックや、リアルタイムのフォームバリデーションを実装しました。
 
 
-**[📂 GitHubリポジトリを見る]** `https://github.com/yuji-oonaka/share-nuxt.git`
+**[📂 GitHubリポジトリを見る]** https://github.com/yuji-oonaka/share-nuxt.git
 
 ---
 
