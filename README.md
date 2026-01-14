@@ -33,7 +33,7 @@
 
 ### 🚀 最新のプロジェクト (Featured Projects)
 
-#### 📱 [Nokku] ライブ運営プラットフォーム
+#### 📱 [[Nokku] ライブ運営プラットフォーム](https://github.com/yuji-oonaka/Nokku)
 チケット購入・入場管理・グッズ販売・チャットを一元管理するネイティブアプリ＆管理システム。
 * **Role:** 企画 / 要件定義 / AIディレクション / 実装
 * **Tech:** React Native (CLI), Laravel 11, Filament, Firebase Auth, Stripe Connect
