@@ -45,11 +45,14 @@
 #### 🧩 [Web Apps Collection] Next.js アプリケーション群
 UXとアクセシビリティを重視したWebアプリを短期間で複数開発・デプロイ。
 * **Tech:** Next.js (App Router), TypeScript, Tailwind CSS, Web Speech API
-* **Works:**
-    * **漢字マージ:** 独自の合体アルゴリズムを搭載したパズルゲーム
-    * **父ちゃんクイズ:** 音声認識を活用したアクセシビリティ対応アプリ
-    * **Between:** 数値感覚を問うミニゲーム
-    * **動物クイズ:** 幼児向けの音声インタラクションアプリ
+
+| App Name | Description | Link |
+| :--- | :--- | :--- |
+| **漢字マージ** | 独自の合体アルゴリズムを搭載したパズルゲーム | [📱 Demo](kanji-merge.vercel.app) / [💻 Repo](https://github.com/yuji-oonaka/kanji-merge.git) |
+| **父ちゃんクイズ** | 音声認識を活用したアクセシビリティ対応アプリ | [📱 Demo](tochan-quiz.vercel.app) / [💻 Repo](https://github.com/yuji-oonaka/tochan-quiz.git) |
+| **Between** | 数値感覚を問うミニゲーム | [📱 Demo](between-theta.vercel.app) / [💻 Repo](git@github.com:yuji-oonaka/between.git) |
+| **High-Just-Low** | 直感的な数値予測ゲーム | [📱 Demo](high-just-low.vercel.app) / [💻 Repo](git@github.com:yuji-oonaka/High-Just-Low.git) |
+| **動物クイズ** | 幼児向けの音声インタラクションアプリ | [📱 Demo](animal-quiz-puce.vercel.app) / [💻 Repo](https://github.com/yuji-oonaka/animal-quiz.git) |
 
 ---
 
@@ -70,8 +73,3 @@ UXとアクセシビリティを重視したWebアプリを短期間で複数開
 * **SNS風アプリ (SHARE):** Nuxt.js + Laravel API + Firebase認証
 * **フリマアプリ:** Stripe決済機能を実装したECサイト (Laravel)
 * **飲食店予約アプリ (Rese):** 権限管理機能を実装 (Laravel)
-
----
-
-### 📫 Contact
-* **GitHub:** [https://github.com/yuji-oonaka](https://github.com/yuji-oonaka)
