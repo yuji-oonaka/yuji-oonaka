@@ -50,8 +50,8 @@ UXとアクセシビリティを重視したWebアプリを短期間で複数開
 | :--- | :--- | :--- |
 | **漢字マージ** | 独自の合体アルゴリズムを搭載したパズルゲーム | [📱 Demo](kanji-merge.vercel.app) / [💻 Repo](https://github.com/yuji-oonaka/kanji-merge.git) |
 | **父ちゃんクイズ** | 音声認識を活用したアクセシビリティ対応アプリ | [📱 Demo](tochan-quiz.vercel.app) / [💻 Repo](https://github.com/yuji-oonaka/tochan-quiz.git) |
-| **Between** | 数値感覚を問うミニゲーム | [📱 Demo](between-theta.vercel.app) / [💻 Repo](git@github.com:yuji-oonaka/between.git) |
-| **High-Just-Low** | 直感的な数値予測ゲーム | [📱 Demo](high-just-low.vercel.app) / [💻 Repo](git@github.com:yuji-oonaka/High-Just-Low.git) |
+| **Between** | 数値感覚を問うミニゲーム | [📱 Demo](between-theta.vercel.app) / [💻 Repo](https://github.com/yuji-oonaka/between.git) |
+| **High-Just-Low** | 直感的な数値予測ゲーム | [📱 Demo](high-just-low.vercel.app) / [💻 Repo](https://github.com/yuji-oonaka/High-Just-Low.git) |
 | **動物クイズ** | 幼児向けの音声インタラクションアプリ | [📱 Demo](animal-quiz-puce.vercel.app) / [💻 Repo](https://github.com/yuji-oonaka/animal-quiz.git) |
 
 ---
